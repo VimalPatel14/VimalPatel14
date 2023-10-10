@@ -3,7 +3,7 @@
 Quality-oriented professional with 7+ years of experience and a proven knowledge of application development, programming, and database design.
 
 ## 🚀 Skills and Technologies
-- **Languages:** Java, Kotlin, C, C++, C#
+- **Languages:** Kotlin, Java, C, C++, C#
 - **Android Development:** Android SDK, Android Jetpack (ViewModel, LiveData, Room), Dagger Hilt, Retrofit, RxJava, Coroutines, Android Studio
 - **Unity Development:** Unity Engine, C# Scripting, Unity UI/UX, Physics and Particle Systems, Unity Animation, AR/VR Development
 - **Architectural Patterns:** MVC, MVVM, MVP, MVI
