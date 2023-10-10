@@ -6,7 +6,7 @@ Quality-oriented professional with 7+ years of experience and a proven knowledge
 - **Languages:** Java, Kotlin, C, C++, C#
 - **Android Development:** Android SDK, Android Jetpack (ViewModel, LiveData, Room), Dagger Hilt, Retrofit, RxJava, Coroutines, Android Studio
 - **Unity Development:** Unity Engine, C# Scripting, Unity UI/UX, Physics and Particle Systems, Unity Animation, AR/VR Development
-- **Architectural Patterns:** MVC,MVVM, MVP, MVI
+- **Architectural Patterns:** MVC, MVVM, MVP, MVI
 - **UI/UX:** Jetpack Compose, XML, Material Design, Constraint Layout
 - **Testing:** JUnit, Espresso, Mockito, TDD
 - **Tools:** Git, GitHub, GitLab, Bitbucket, Jenkins, Android Profiler
