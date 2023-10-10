@@ -12,8 +12,7 @@ Quality-oriented professional with 7+ years of experience and a proven knowledge
 - **Tools:** Git, GitHub, GitLab, Bitbucket, Jenkins, Android Profiler
 
 ## 🌟 Achievements
-- Implemented [specific achievement/project] that resulted in [quantifiable outcome].
-- Led a team of 7 developers, ensuring successful project completion and client satisfaction.
+- Lead a team of 7 developers, ensuring successful project completion and client satisfaction.
 - Published 75+ of apps on the Google Play Store, collectively achieving 50M+ downloads.
 
 ## 📈 GitHub Stats
