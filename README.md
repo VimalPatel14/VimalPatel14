@@ -22,7 +22,7 @@ Quality-oriented professional with 7+ years of experience and a proven knowledge
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue)](https://www.linkedin.com/in/vimal-patel-aa64a4146/)
 - [![GitHub](https://img.shields.io/badge/GitHub-VimalPatel14-lightgrey)](https://github.com/VimalPatel14)
-- Email: vmlpatel04@gmail.com/vimalpatel164692@gmail.com
+- Email: vmlpatel04@gmail.com
 
 Feel free to reach out if you're interested in collaborating or if you have any questions!
 
