@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vimal Patel
 
-Quality-oriented professional with 7+ years of experience and a proven knowledge of application development, programming, and database design.
+Quality-oriented professional with 8+ years of experience and a proven knowledge of application development, programming, and database design.
 
 ## 🚀 Skills and Technologies
 - **Languages:** Kotlin, Java, C, C++, C#
