@@ -5,11 +5,15 @@ Quality-oriented professional with 8+ years of experience and a proven knowledge
 ## 🚀 Skills and Technologies
 - **Languages:** Kotlin, Java, C, C++, C#
 - **Android Development:** Android SDK, Android Jetpack (ViewModel, LiveData, Room), Dagger Hilt, Retrofit, RxJava, Coroutines, Android Studio
+- **Backend Development**: Spring Boot, Spring Security, REST APIs, Microservices, Spring MVC, Spring Data JPA, Hibernate, JWT Authentication
 - **Unity Development:** Unity Engine, C# Scripting, Unity UI/UX, Physics and Particle Systems, Unity Animation, AR/VR Development
 - **Architectural Patterns:** MVC, MVVM, MVP, MVI
+- **Database**: MongoDB, PostgreSQL, MySQL, SQLite, Room Database
 - **UI/UX:** Jetpack Compose, XML, Material Design, Constraint Layout
 - **Testing:** JUnit, Espresso, Mockito, TDD
-- **Tools:** Git, GitHub, GitLab, Bitbucket, Jenkins, Android Profiler
+- **DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Jenkins, Postman, Maven, Gradle, Android Profiler
+- **IDEs & Development Tools:** Android Studio, IntelliJ IDEA, Visual Studio Code, Eclipse IDE, Unity
+- **AI Assisted Development:** GitHub Copilot, Cursor, AI-assisted code reviews and productivity optimization
 
 ## 🌟 Achievements
 - Lead a team of 7 developers, ensuring successful project completion and client satisfaction.
