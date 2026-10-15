@@ -1,19 +1,20 @@
 # 👋 Hello, I'm Vimal Patel
 
-Quality-oriented professional with 9+ years of experience and a proven knowledge of application development, programming, and database design.
+Quality-oriented professional with 10+ years of experience and a proven knowledge of application development, programming, and database design.
 
 ## 🚀 Skills and Technologies
-- **Languages:** Kotlin, Java, C, C++, C#
+- **Languages:** Kotlin, Java, TypeScript, C, C++, C#
 - **Android Development:** Android SDK, Android Jetpack (ViewModel, LiveData, Room), Dagger Hilt, Retrofit, RxJava, Coroutines, Android Studio
-- **Backend Development**: Spring Boot, Spring Security, REST APIs, Microservices, Spring MVC, Spring Data JPA, Hibernate, JWT Authentication
+- **Cross-Platform Development:** React Native, TypeScript, React Hooks (useState, useEffect, useContext, useMemo, useCallback), Functional Components, React Navigation, REST API Integration, Cross-Platform UI Development
+- **Backend Development**: Node.js, Express.js, Spring Boot, Spring Security, REST APIs, Microservices, Spring MVC, Spring Data JPA, Hibernate, JWT Authentication
 - **Unity Development:** Unity Engine, C# Scripting, Unity UI/UX, Physics and Particle Systems, Unity Animation, AR/VR Development
 - **Architectural Patterns:** MVC, MVVM, MVP, MVI
 - **Database**: MongoDB, PostgreSQL, MySQL, SQLite, Room Database
-- **UI/UX:** Jetpack Compose, XML, Material Design, Constraint Layout
-- **Testing:** JUnit, Espresso, Mockito, TDD
+- **UI/UX:** Figam, Jetpack Compose, XML, React Native UI Components, Material Design, Constraint Layout
+- **Testing:** JUnit, Espresso, Jest, React Native Testing Library, Mockito, TDD
 - **DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Jenkins, Postman, Maven, Gradle, Android Profiler
 - **IDEs & Development Tools:** Android Studio, IntelliJ IDEA, Visual Studio Code, Eclipse IDE, Unity
-- **AI Assisted Development:** GitHub Copilot, Cursor, AI-assisted code reviews and productivity optimization
+- **AI Assisted Development:** GitHub Copilot, Cursor, Claude, BOB, AI-assisted code reviews and productivity optimization
 
 ## 🌟 Achievements
 - Lead a team of 7 developers, ensuring successful project completion and client satisfaction.
